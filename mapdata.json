@@ -1,0 +1,19 @@
+"type":"featurecollection",
+    "feature":[
+	{
+    "type": "Feature",
+    "properties": {
+    "id": "1",
+    "name": "忠孝西路天橋",
+    "address": "台北市中正區忠孝西路一段7號",
+    "postal_code":"100",
+      "updated": "2023/03/30 12:21:30",
+    "note": "無輪椅友善步道，僅供行人步行專用。"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.045938714641974, 121.51918350473248
+      ]
+    }
+    },
